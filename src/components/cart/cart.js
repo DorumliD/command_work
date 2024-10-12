@@ -12,7 +12,7 @@ export default function Cart() {
                 <p>We work by a set of key values which has naturally produced an amazing environment for talent to flourish and for our clients to get the best work from us.</p>
             </div>
             <div className='button'>
-                <button style={{width:"220px",height:"70px,",border:"none",borderRadius:"22px",color:"white",fontSize:"16px"}}>CONTACT US</button>
+                <button style={{width:"220px",height:"65px,",border:"none",borderRadius:"22px",color:"white",fontSize:"16px"}}>CONTACT US</button>
             </div>
 
 
