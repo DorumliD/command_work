@@ -20,12 +20,14 @@ export default function Cart() {
 
         </div>
         <div className='box1'>
+            <div className='img'></div>
+            <div className='text'>
+                <p>Image from <span style={{color:"rgb(71, 201, 86)"}}>Freepik</span></p>
+            </div>
+           
 
         </div>
-        <div className='text'>
-        <h1 style={{width:"100%",marginLeft:'670px',marginTop:"-100px",fontSize:"19px"}}>Image from <span style={{color:'rgb(71, 201, 86)',}} >Freepik</span></h1>
-        </div>
-
+        
 
 
       
