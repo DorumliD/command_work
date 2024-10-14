@@ -1,0 +1,16 @@
+.firstDiv{
+    width: 90%;
+    height: 72vh;
+    background-color: white;
+    padding-top: 70px;
+    padding-left: 150px;
+    display: flex;
+    gap: 30px;
+}
+
+.secondDiv{
+    width: 35%;
+    height: 75%;
+    background-color: rgb(253, 27, 27);
+    color: white;
+}

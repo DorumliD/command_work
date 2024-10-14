@@ -8,6 +8,14 @@
     gap: 200px;
 }
 
+h1{
+    text-align: left;
+}
+
+p{
+    text-align: left;
+}
+
 button{
    width: 230px;
    height: 65px;

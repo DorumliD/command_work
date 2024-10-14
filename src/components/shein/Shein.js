@@ -18,7 +18,8 @@ function Shein() {
       </div>
 
       <div style={{marginTop:'120px'}}>
-      <img src='https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/4eb9547dec9b5e90816a289e/2.png'/>
+      <img src='https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/4eb9547dec9b5e90816a289e/2.png'/><br/> <br/><br/>
+      <p>Image from <span style={{color:'yellow'}}>Freepik</span></p>
       </div>
     
     </div>
