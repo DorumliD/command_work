@@ -11,8 +11,8 @@ function Shein() {
       <p>Timed she his law the spoil round defer. In surprise concerns informed betrayed he learning is ye. Ignorant formerly so ye blessing. He as spoke avoid given downs money on we. Of properly carriage shutters ye as wandered up repeated moreover</p>
       
       <div style={{display:'flex', gap:'30px', marginTop:'60px'}}>
-      <button className='firstButton'><h3><i class="fa-solid fa-arrow-up-from-bracket"></i> Upload for free</h3></button>
-      <button><h3><i class="fa-brands fa-youtube"></i> Watch video</h3></button>
+      <button className='firstButton'><h2><i class="fa-solid fa-arrow-up-from-bracket"></i> Upload for free</h2></button>
+      <button><h2><i class="fa-brands fa-youtube"></i> Watch video</h2></button>
       </div>
 
       </div>
