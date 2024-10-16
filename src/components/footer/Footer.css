@@ -152,10 +152,10 @@ footer h6 {
 
 h3 {
     font-size: 30px;
-}
-
-p {
-    font-size: 10px;
+    
+    p {
+        font-size: 10px;
+    }
 }
 .image{
     width: 100px;
