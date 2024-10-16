@@ -2,6 +2,12 @@ import React from 'react'
 import './cart.css'
 
 export default function Cart() {
+    
+    window.onload = () => {
+        const div = document.getElementById('animatedDiv');
+        div.style.top = '400px'; 
+    }
+    
   return (
     <div className='cart'>
         <div className='box'>
@@ -20,13 +26,15 @@ export default function Cart() {
 
         </div>
         <div className='box1'>
-            <div className='img'></div>
+            <div id="animatedDiv" className='img'></div>
             <div className='text'>
                 <p>Image from <span style={{color:"rgb(71, 201, 86)"}}>Freepik</span></p>
             </div>
            
 
         </div>
+
+
         
 
 
