@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 120px;
+    gap: 30px;
+    text-align: center;
+}
+
+.firstcard{
+    width: 600px;
+    height: 380px;
+    background-color: #f41822;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    letter-spacing: 1.0px;
+}
+
+.secondcard{
+    width: 600px;
+    height: 380px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    border: 5px solid rgba(0, 0, 0, 0.766);
+    letter-spacing: 1.0px;
+}
+
+.thirdcard{
+    width: 600px;
+    height: 380px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    border: 5px solid rgba(0, 0, 0, 0.766);
+    letter-spacing: 1.0px;
+}
+
+.fourthcard{
+    width: 600px;
+    height: 380px;
+    background-color: #47c956;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+    letter-spacing: 1.0px;
+}
+
+
+
