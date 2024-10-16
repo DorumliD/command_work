@@ -1,6 +1,24 @@
+body {
+    width: 100%;
+    height: 200px; /* Sahifa balandligi */
+    /* position: relative; */
+    /* overflow-y: scroll;  */
+}
+#animatedDiv {
+    width: 500px;
+    height: 500px;
+    position: absolute; 
+    top: 0; /* Dastlabki joylashuv */
+    left: 10px; /* Chapdan joylashuvi */
+    transition: top 2s; /* Animatsiya davomiyligi */
+    background-repeat: no-repeat;
+    margin-top: -330px;
+}
+
+
 .cart{
     width: 100%;
-    height: 90vh;
+    height: 100vh;
     /* border: 2px solid black; */
     /* border: 2px solid black; */
     display: grid;
@@ -17,6 +35,8 @@
     width: 500px;
     height: 500px;
     /* border: 2px solid black; */
+    position: relative;/* Vertikal scroll yoqiladi */
+
     
     background-size: 500px;
 }
@@ -32,6 +52,7 @@
     font-size: 5px;
     /* border: 2px solid black; */
     font-size: 20px;
+    margin-top: 500px;
 }
 .box h1{
     text-align: left;
@@ -123,8 +144,17 @@
         display: grid;
         grid-template-columns: 1fr ;
         width: 100%;
-        height: 100vh;
+        height: 200vh;
     }
+#animatedDiv {
+    left: 0px;
+    width: 400px;
+    height: 400px;
+}
+.box{
+    margin-top: -90px;
+}
+
     .box h1{
         font-size: 40px;
     }
@@ -135,7 +165,7 @@
         width: 400px;
         background-size: 400px;
         background-repeat: no-repeat;
-        margin-top: 45px;
+        margin-top: -260px;
     }
 
 }
